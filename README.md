@@ -1,5 +1,14 @@
 # gerador-machado-de-assis
-Projeto acadêmico que utiliza Processamento de Linguagem Natural para criar textos inéditos no estilo machadiano.
+
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+![Instituição](https://img.shields.io/badge/Instituição-UFSC-blue)
+![Linguagem](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+Projeto acadêmico de **Processamento de Linguagem Natural (PLN)** desenvolvido para a disciplina de **Introdução à Informática para Engenharia de Controle e Automação** da **Universidade Federal de Santa Catarina (UFSC)**.
+
+O programa utiliza modelos de N-gramas para analisar a obra completa de Machado de Assis e, a partir desse aprendizado, gerar textos inéditos que simulam seu inconfundível estilo literário.
+
+---
 
 # Gerador de Textos no Estilo de Machado de Assis
 
@@ -19,6 +28,17 @@ Ele não copia e cola trechos, mas sim constrói frases do zero, palavra por pal
 
 > “A alma dos outros é um mistério que a nossa não penetra, e a vida, meus amigos, não passa de uma série de observações irônicas sobre a vaidade humana. Não era o amor, mas a falta dele que o fazia suspirar. Cada época tem os seus velhos, como cada noite tem a sua lua; era a única filosofia que consolava o coração daquele homem, que via no espelho não um rosto, mas um argumento.”
 
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+-   **Python:** Linguagem principal para o desenvolvimento de todo o script.
+-   **spaCy:** Biblioteca de PLN utilizada para tokenização e processamento eficiente do texto.
+-   **Requests:** Para realizar o download programático das obras que servem como base de treinamento.
+  
 ---
 
 ## ⚙️ Como Funciona (De Forma Simples)
