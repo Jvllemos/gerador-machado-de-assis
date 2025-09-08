@@ -88,6 +88,6 @@ Durante o desenvolvimento, diversas abordagens foram testadas para melhorar a qu
 
 ## 👨‍💻 Autores
 
-* João Victor Barbosa
+* João Victor Barbosa (@joaovbtb)
 * João Vitor Lemos (@Jvllemos)
 * Bruno Ramos (@bruno-hessmann)
